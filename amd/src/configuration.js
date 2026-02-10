@@ -7,7 +7,7 @@ import {
 } from 'editor_tiny/utils';
 
 // Name of the default equation editor in Tiny
-const TINY_EQUATION = 'tiny_equation';
+const TINY_EQUATION = 'tiny_equation-cqu-customisation';
 
 const configureMenu = (menu) => {
     if (menu.insert.items.includes(TINY_EQUATION)) {
